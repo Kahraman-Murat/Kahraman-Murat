@@ -1,9 +1,1 @@
-Mein Interesse an Computern und Programmierung begann in meiner Schulzeit. Natürlich wurden damals PC-basierte Geräte in meinem Land gerade erst auf den Markt gebracht. Zu dieser Zeit hatte ich einen Computer namens Commodore, der den Benutzern nur grundlegende Programmierung und auch Maschinensprache / Assembler-Codierung erlaubte.
 
-Dann habe ich mich mit den verschiedenen Arten von Basic-Programmiersprachen GWBasic, Qbasic, Visual Basic beschäftigt. Ich habe versucht, meine Neugier auf Ms-Dos-, Windows- und Linux-Betriebssysteme zu befriedigen. Die Begegnung mit Delphi brachte mich in eine andere Dimension. Datenbanken und die SQL-Sprache haben den Programmen, die ich geschrieben habe, eine andere Bedeutung verliehen. Ich interessierte mich auch für Technologien zum Informationsaustausch im Internet.
-
-Nach Delphi, das mit der Schließung der Firma Borland an Popularität verlor, begann ich, die Programmiersprache C# beim Codieren mit Visual Studio ide zu verwenden. Aktive Webseiten können mit der Leichtigkeit der Asp.Net-Technologie erstellt werden. Auch die einfache Datenbankintegration war beeindruckend.
-
-Die Entwicklungen bei Mobiltelefonen und die Idee, einen Computer in jeder Hand zu haben, bot allen Softwareentwicklern die Möglichkeit, mit den von ihnen hergestellten Produkten nicht nur Unternehmen, sondern auch Menschen zu erreichen. So fing ich an, Programme für Telefone mit Android-Betriebssystem über Eclipse und Anroid Studio und die Java-Programmiersprache zu schreiben. Ich wurde in den letzten Jahren mit Python vertraut gemacht. Mit seiner einfachen Codierung und großen Bibliothek hat es mich wie alle anderen fasziniert.
-
-Aufgrund meiner Neugier und meines Interesses an Computern und Software habe ich immer versucht, neuen Technologien zu folgen. Von nun an denke ich daran, mit der Zeit zu gehen, indem ich mich auf dem Laufenden halte, indem ich die Entwicklungen offen für Neuerungen in meinem Leben verfolge.
